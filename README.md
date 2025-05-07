@@ -17,20 +17,20 @@ Check out the live demo here: [Amazon Clone Landing Page](https://chaitanya10000
 - HTML5  
 - CSS3  
 
-🎯 Features
+  🎯 Features
 
 - ✅ Header with logo, search bar, and navigation links  
 - ✅ Hero banner section  
 - ✅ Product category cards/grid  
 - ✅ Footer with useful links
 
-🛠️ To Do (Optional)
+  🛠️ To Do (Optional)
 
 - Add hover effects and animations
 - Improve responsiveness for smaller screens
 - Add basic JavaScript functionality for interactivity (like search suggestions)
 
-##🙏 Acknowledgments
+  🙏 Acknowledgments
 
 - This project is for educational purposes only.
 - Inspired by the design of Amazon.com.
