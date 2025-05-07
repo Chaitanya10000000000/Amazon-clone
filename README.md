@@ -35,4 +35,8 @@ Check out the live demo here: [Amazon Clone Landing Page](https://chaitanya10000
 - This project is for educational purposes only.
 - Inspired by the design of Amazon.com.
 
+  📄 License
+  
+- This project is licensed under the MIT License.
+
 
